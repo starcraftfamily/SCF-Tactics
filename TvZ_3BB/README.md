@@ -1,8 +1,5 @@
 # TvZ 野 3BB（使用者：GuMiho）
 
-## 戰鬥錄影
-+ [RP1](https://github.com/starcraftfamily/SCF-Tactics/raw/master/TvZ%E9%87%8E3BB/TVZ_3BB.SC2Replay)
-+ [RP2](https://github.com/starcraftfamily/SCF-Tactics/raw/master/TvZ%E9%87%8E3BB/TVZ_3BB_2.SC2Replay)
 
 ## 流程表
 
@@ -80,3 +77,9 @@
 5. 每一隻陸戰隊都極為重要，儘可能保存、操作
 6. 若蓋碉堡的工兵全數陣亡，則將陸戰隊集結至兵營旁並再從家中拉出3~5隻工兵再做進攻
 
+## 戰術VOD(第一視角)
+
+
+## 戰鬥錄影
++ [RP1](https://github.com/starcraftfamily/SCF-Tactics/raw/master/TvZ%E9%87%8E3BB/TVZ_3BB.SC2Replay)
++ [RP2](https://github.com/starcraftfamily/SCF-Tactics/raw/master/TvZ%E9%87%8E3BB/TVZ_3BB_2.SC2Replay)
