@@ -3,7 +3,7 @@
 
 ## 流程表
 
-<table>
+<table width="75%">
 <thead>
 <tr>
 <th align="center">人口</th>
@@ -23,7 +23,7 @@
 <td align="center">補給站(建議封門)</td>
 </tr>
 <tr>
-<td align="center" colspan="3"> 第14人口生產的工兵送至前線</td>
+<td colspan="3"> 第14人口生產的工兵送至前線</td>
 </tr>
 <tr>
 <td align="center">16</td>
@@ -61,10 +61,10 @@
 <td align="center">第一隻陸戰隊完成時協同2隻SCV至蟲族2礦處蓋碉堡</td>
 </tr>
 <tr>
-<td align="center" colspan="3"> 星軌完成時丟礦螺並恢復不停生產兵工</td>
+<td colspan="3"> 星軌完成時丟礦螺並恢復不停生產兵工</td>
 </tr>
 <tr>
-<td align="center" colspan="3"> 工兵到蟲族2礦時馬上放下碉堡</td>
+<td colspan="3"> 工兵到蟲族2礦時馬上放下碉堡</td>
 </tr>
 </tbody>
 </table>

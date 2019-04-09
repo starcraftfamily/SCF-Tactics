@@ -1,7 +1,7 @@
 # PvT 3先知教士（使用者：Zest）
 
 ## 流程表
-<table>
+<table width="75%">
   <tr>
     <th align="center">人口</th>
     <th align="center">時間</th>
