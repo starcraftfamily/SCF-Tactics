@@ -78,12 +78,12 @@
 6. 若蓋碉堡的工兵全數陣亡，則將陸戰隊集結至兵營旁並再從家中拉出3~5隻工兵再做進攻
 
 ## 戰術 VOD（第一視角）
-+ [VOD 1](https://www.youtube.com/watch?v=tH-_Nn_q8dw)
-+ [VOD 2](https://www.youtube.com/watch?v=mPgu0U46Cz4)
++ [VOD 1](https://youtu.be/tH-_Nn_q8dw)
++ [VOD 2](https://youtu.be/mPgu0U46Cz4)
 
 ## 戰鬥錄影
-+ [RP1](https://github.com/starcraftfamily/SCF-Tactics/raw/master/TvZ%E9%87%8E3BB/TVZ_3BB.SC2Replay)
-+ [RP2](https://github.com/starcraftfamily/SCF-Tactics/raw/master/TvZ%E9%87%8E3BB/TVZ_3BB_2.SC2Replay)
++ [RP1](https://github.com/starcraftfamily/SCF-Tactics/raw/master/TvZ/3BB/TVZ_3BB.SC2Replay)
++ [RP2](https://github.com/starcraftfamily/SCF-Tactics/raw/master/TvZ/3BB/TVZ_3BB_2.SC2Replay)
 
 
                                                   戰術提供者：Osiris
