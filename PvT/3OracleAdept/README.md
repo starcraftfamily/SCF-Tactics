@@ -123,7 +123,7 @@
 + [VOD](https://youtu.be/l4W_6nvPH64)
 
 ## 戰鬥錄影
-+ [RP](PvT_3.SC2Replay)
++ [RP](https://github.com/starcraftfamily/SCF-Tactics/raw/master/PvT/3OracleAdept/PvT_3.SC2Replay)
 
 
                                                   戰術提供者：Osiris
