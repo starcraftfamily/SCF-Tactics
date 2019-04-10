@@ -1,4 +1,4 @@
-# SCF-Tactics
+# [SCF-Tactics](https://starcraftfamily.github.io/SCF-Tactics/)
 
 + 這裡是星海大家庭的戰術分享區網站！
 
