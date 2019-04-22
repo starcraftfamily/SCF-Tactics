@@ -15,6 +15,7 @@
 
 ### ZvP
 + [ZvP 野主堡蟑螂一波 By Lambo](https://starcraftfamily.github.io/SCF-Tactics/ZvP/RoachRush/)
++ [ZvP 雙礦蟲洞一波(提速狗+后蟲) By Elazer](https://starcraftfamily.github.io/SCF-Tactics/ZvP/2basenydusrush_queenzergling/)
 
 ### ZvT
 + [ZvT 雙礦5蟑螂前壓 By Lambo](https://starcraftfamily.github.io/SCF-Tactics/ZvT/2Base5Roach/)
