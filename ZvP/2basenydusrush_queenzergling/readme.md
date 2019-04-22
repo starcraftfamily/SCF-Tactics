@@ -26,7 +26,7 @@
 + [VOD](https://youtu.be/T3_ZF20rGnM)
 
 ## 戰鬥錄影
-+ [RP]()
++ [RP](https://github.com/starcraftfamily/SCF-Tactics/raw/master/ZvP/2basenydusrush_queenzergling/ZvP%202basenydusrush_queenzergling.SC2Replay)
 
 
                                                   戰術提供者：Osiris
