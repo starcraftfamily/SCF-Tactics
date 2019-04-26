@@ -49,7 +49,7 @@
 + [VOD](https://youtu.be/XW7hnfHu8NM)
 
 ## 戰鬥錄影
-+ [RP]()
++ [RP](https://github.com/starcraftfamily/SCF-Tactics/raw/master/PvP/3%20Sentry%20Expand%20into%20Fast%20Forge/3%20Sentry%20Expand%20into%20Fast%20Forge.SC2Replay)
 
 戰術原文連結：https://tl.net/forum/sc2-strategy/546425-pbotw-stats-3-sentry-expand-into-fast-forge
 
