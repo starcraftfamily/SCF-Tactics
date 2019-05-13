@@ -6,7 +6,7 @@
 
 ### TvZ
 + [TvZ 野 3BB By GuMiho](https://starcraftfamily.github.io/SCF-Tactics/TvZ/3BB/)
-+ [TvZ 4槍6戰狼前壓 By Dream](https://github.com/starcraftfamily/SCF-Tactics/tree/master/TvZ/4Marine%2B6Hellbats)
++ [TvZ 4槍6戰狼前壓 By Dream](https://starcraftfamily.github.io/SCF-Tactics//TvZ/4Marine%2B6Hellbats)
 
 ### TvP
 + [TvP 雙礦槍坦一波 By Time](https://starcraftfamily.github.io/SCF-Tactics/TvP/2basesMarinetanks/)
