@@ -14,7 +14,7 @@
 + [PvT 3先知教士 By Zest](https://starcraftfamily.github.io/SCF-Tactics/PvT/3OracleAdept/)
 
 ### PvP
-+ [PvP 1追3哨速冶煉廠開局](https://starcraftfamily.github.io/SCF-Tactics/PvP/3%20Sentry%20Expand%20into%20Fast%20Forge/)
++ [PvP 1追3哨速冶煉廠開局 By Stats](https://starcraftfamily.github.io/SCF-Tactics/PvP/3%20Sentry%20Expand%20into%20Fast%20Forge/)
 ### ZvP
 + [ZvP 野主堡蟑螂一波 By Lambo](https://starcraftfamily.github.io/SCF-Tactics/ZvP/RoachRush/)
 + [ZvP 雙礦蟲洞一波(提速狗+后蟲) By Elazer](https://starcraftfamily.github.io/SCF-Tactics/ZvP/2basenydusrush_queenzergling/)
