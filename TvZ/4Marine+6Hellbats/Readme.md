@@ -31,7 +31,7 @@
 + [VOD](https://youtu.be/0SznbsrVDI0 )
 
 ## 戰鬥錄影
-+ [RP]()
++ [RP](https://github.com/starcraftfamily/SCF-Tactics/raw/master/TvZ/4Marine%2B6Hellbats/4Marine%2B6Hellbats.SC2Replay)
 
 
                                                   戰術提供者：Osiris
