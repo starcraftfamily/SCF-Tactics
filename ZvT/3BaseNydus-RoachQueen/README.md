@@ -29,7 +29,7 @@
 + [VOD](https://youtu.be/NYq8al7nIL8)
 
 ## 戰鬥錄影
-+ [RP]()
++ [RP](https://github.com/starcraftfamily/SCF-Tactics/raw/master/ZvT/3BaseNydus-RoachQueen/3BaseNydus-RoachQueen.SC2Replay)
 
 
                                                   戰術提供者：Osiris
